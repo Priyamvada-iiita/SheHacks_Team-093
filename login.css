@@ -1,0 +1,38 @@
+body{   
+    background-image: url(login.png); 
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}  
+#frm{  
+    border: solid rgb(100, 71, 168) 3px;  
+    width:30%;
+    height: 35%;  
+    border-radius: 10px;  
+    margin: 120px auto;  
+    background: rgb(130, 231, 245);  
+    padding: 50px;  
+    box-shadow: 10px 10px 10px 0 rgba(54, 120, 207, 0.75);
+    font-size: 20px;
+}  
+#btn{  
+    color: #fff;  
+    background: #334ff0;  
+    padding: 15px;  
+    margin-left: 70%;
+    font-size: 15px;  
+}
+.first{
+    font-size: 40px;
+}
+#user{
+    height: 40px;
+    width: 200px;
+    border-radius: 4px;
+}
+#pass{height: 40px;
+    width: 200px;
+    border-radius: 4px;
+
+}
